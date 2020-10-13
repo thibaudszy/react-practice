@@ -87,6 +87,7 @@ export default function App() {
       </header>
 
       <div className="section-header-spacer"></div>
+
       {sections.map((section) => {
         return (
           <Section
